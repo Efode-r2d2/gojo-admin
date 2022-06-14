@@ -10,10 +10,10 @@ const Home = () => {
         <div className="homeContainer">
           <Navbar/>
           <div className="widgets">
-            <Widget/>
-            <Widget/>
-            <Widget/>
-            <Widget/>
+            <Widget type="user"/>
+            <Widget type="property"/>
+            <Widget type="contract"/>
+            <Widget type="requests"/>
           </div>
         </div>
     </div>
