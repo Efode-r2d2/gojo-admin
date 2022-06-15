@@ -13,7 +13,7 @@ const Home = () => {
             <Widget type="user"/>
             <Widget type="property"/>
             <Widget type="contract"/>
-            <Widget type="requests"/>
+            <Widget type="request"/>
           </div>
         </div>
     </div>
